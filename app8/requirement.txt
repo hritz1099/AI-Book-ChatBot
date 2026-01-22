@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-text-splitters
+bs4
+PyPDF2
+pymysql
+dotenv
+fastapi
+uvicorn
